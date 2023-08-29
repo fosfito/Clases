@@ -1,2 +1,2 @@
 # Clases
-Apuntes de clases
+Apuntes de clases y cosas en Gral
